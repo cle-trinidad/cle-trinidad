@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cle-trinidad&color=2ea043&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cle-trinidad.cle-trinidad&left_color=gray&right_color=%232ea043&left_text=Profile%20views" alt="Profile views" />
+  <a href="https://miraclejohntrinidad.com"><img src="https://img.shields.io/badge/Website-miraclejohntrinidad.com-2ea043?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" alt="Objective-C" />
   <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI" />
