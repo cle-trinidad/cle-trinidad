@@ -15,24 +15,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build latest contributions feed
+      - name: Build recent activity card and feed
         run: python3 .github/scripts/update_feed.py ${{ github.repository_owner }}
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || (git commit -m "⚡ Update latest contributions" && git push)
+          git add README.md assets/recent.svg
+          git diff --cached --quiet || (git commit -m "⚡ Update recent activity" && git push)
 
-  snake:
+  pacman:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - uses: Platane/snk@v3
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+          games: "pacman"
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
