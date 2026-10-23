@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Cle 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=520&lines=Shipping+code+(almost)+every+day;893%2B+contributions+and+counting;Swift+%E2%80%A2+Objective-C+%E2%80%A2+CI%2FCD" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=520&lines=Developing+products+whenever+I+am+awake;893%2B+contributions+and+counting;Swift+%E2%80%A2+Objective-C+%E2%80%A2+CI%2FCD" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -27,26 +27,6 @@
 ### ⚡ Latest contributions (newest first)
 
 <!--START_SECTION:feed-->
-**899** contributions in the last year · **8** in the last 7 days · **2-day** current streak · best day: **35** on Sep 10, 2026
-
-| Date | | Contributions | |
-|:--|:--|:--|:--|
-| Oct 23 | Fri | 🟩🟩🟩🟩🟩🟩 **6** | 🔥 big day |
-| Oct 22 | Thu | 🟩🟩 **2** | 🌱 steady |
-| Oct 16 | Fri | 🟩🟩🟩 **3** | ⚡ solid |
-| Oct 15 | Thu | 🟩🟩🟩🟩 **4** | ⚡ solid |
-| Oct 14 | Wed | 🟩🟩🟩🟩🟩 **5** | 🔥 big day |
-| Oct 12 | Mon | 🟩 **1** | 🌱 steady |
-| Oct 09 | Fri | 🟩🟩🟩 **3** | ⚡ solid |
-| Oct 08 | Thu | 🟩🟩🟩 **3** | ⚡ solid |
-| Oct 06 | Tue | 🟩 **1** | 🌱 steady |
-| Oct 05 | Mon | 🟩🟩🟩 **3** | ⚡ solid |
-| Oct 02 | Fri | 🟩 **1** | 🌱 steady |
-| Oct 01 | Thu | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩➕ **15** | 🚀 on fire |
-| Sep 30 | Wed | 🟩🟩🟩🟩 **4** | ⚡ solid |
-| Sep 29 | Tue | 🟩 **1** | 🌱 steady |
-
-<sub>Updated 2026-10-23 14:56 UTC</sub>
 <!--END_SECTION:feed-->
 
 ### 🐍 My contributions, eaten by a snake
